@@ -1,0 +1,61 @@
+{
+  "name": "@ioris/parser-suno",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.cjs",
+    "node": "./dist/index.mjs",
+    "default": "./dist/index.cjs"
+  },
+  "directories": {
+    "lib": "src"
+  },
+  "files": ["dist"],
+  "scripts": {
+    "dev": "ts-node src/index",
+    "format": "biome check --fix",
+    "lint": "run-p lint:*",
+    "lint:biome": "biome check",
+    "lint:ts": "tsc",
+    "build": "rimraf ./dist && run-p build:*",
+    "build:esbuild": "ts-node build.ts",
+    "build:types": "tsc",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8beeeaaat/ioris_parser_suno.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": ["music", "lyric", "sync", "iori"],
+  "author": "8beeeaaat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8beeeaaat/ioris_parser_suno/issues"
+  },
+  "homepage": "https://github.com/8beeeaaat/ioris_parser_suno#readme",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@eslint/js": "^9.19.0",
+    "@types/kuromoji": "^0.1.3",
+    "esbuild": "^0.24.2",
+    "globals": "^15.14.0",
+    "jsdom": "^26.0.0",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.4"
+  },
+  "dependencies": {
+    "@ioris/core": "^0.1.17",
+    "@ioris/tokenizer-kuromoji": "^0.1.12",
+    "kuromoji": "^0.1.2"
+  }
+}
