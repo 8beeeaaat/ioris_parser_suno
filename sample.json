@@ -1,0 +1,2011 @@
+[
+  {
+    "word": "い",
+    "start_s": 1.04,
+    "end_s": 1.08,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "ず",
+    "start_s": 1.08,
+    "end_s": 1.36,
+    "success": true,
+    "p_align": 0.02
+  },
+  {
+    "word": "れ",
+    "start_s": 1.36,
+    "end_s": 1.6,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に",
+    "start_s": 1.6,
+    "end_s": 1.8,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "し",
+    "start_s": 1.8,
+    "end_s": 1.99,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て",
+    "start_s": 1.99,
+    "end_s": 2.23,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "も",
+    "start_s": 2.23,
+    "end_s": 2.63,
+    "success": true,
+    "p_align": 0.009
+  },
+  {
+    "word": "立",
+    "start_s": 2.63,
+    "end_s": 3.03,
+    "success": true,
+    "p_align": 0.427
+  },
+  {
+    "word": "ち",
+    "start_s": 3.03,
+    "end_s": 3.23,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "去",
+    "start_s": 3.23,
+    "end_s": 3.43,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ら",
+    "start_s": 3.43,
+    "end_s": 3.63,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "な",
+    "start_s": 3.63,
+    "end_s": 3.83,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "け",
+    "start_s": 3.83,
+    "end_s": 4.03,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "れ",
+    "start_s": 4.03,
+    "end_s": 4.27,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ば",
+    "start_s": 4.27,
+    "end_s": 4.47,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "な",
+    "start_s": 4.47,
+    "end_s": 4.75,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ら",
+    "start_s": 4.75,
+    "end_s": 5.11,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "な",
+    "start_s": 5.11,
+    "end_s": 5.62,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い　",
+    "start_s": 5.62,
+    "end_s": 6.38,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "彼",
+    "start_s": 6.38,
+    "end_s": 7.06,
+    "success": true,
+    "p_align": 0.83
+  },
+  {
+    "word": "女",
+    "start_s": 7.06,
+    "end_s": 7.38,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "は",
+    "start_s": 7.38,
+    "end_s": 8.1,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "傷",
+    "start_s": 8.1,
+    "end_s": 8.7,
+    "success": true,
+    "p_align": 0.152
+  },
+  {
+    "word": "つ",
+    "start_s": 8.7,
+    "end_s": 9.41,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "き",
+    "start_s": 9.41,
+    "end_s": 9.89,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "す",
+    "start_s": 9.89,
+    "end_s": 10.33,
+    "success": true,
+    "p_align": 0.005
+  },
+  {
+    "word": "ぎ",
+    "start_s": 10.33,
+    "end_s": 10.77,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た\n",
+    "start_s": 10.77,
+    "end_s": 14.2,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "開",
+    "start_s": 21.32,
+    "end_s": 23.5,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "か",
+    "start_s": 23.5,
+    "end_s": 23.7,
+    "success": true,
+    "p_align": 0.003
+  },
+  {
+    "word": "な",
+    "start_s": 23.7,
+    "end_s": 23.98,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い",
+    "start_s": 23.98,
+    "end_s": 24.14,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "カ",
+    "start_s": 24.14,
+    "end_s": 24.34,
+    "success": true,
+    "p_align": 0.016
+  },
+  {
+    "word": "ー",
+    "start_s": 24.34,
+    "end_s": 24.53,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "テ",
+    "start_s": 24.53,
+    "end_s": 24.69,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ン　",
+    "start_s": 24.69,
+    "end_s": 24.97,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "割",
+    "start_s": 24.97,
+    "end_s": 25.33,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "れ",
+    "start_s": 25.33,
+    "end_s": 25.53,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 25.53,
+    "end_s": 25.73,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "カ",
+    "start_s": 25.73,
+    "end_s": 25.97,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ッ",
+    "start_s": 25.97,
+    "end_s": 26.21,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "プ　",
+    "start_s": 26.21,
+    "end_s": 26.61,
+    "success": true,
+    "p_align": 0.003
+  },
+  {
+    "word": "流",
+    "start_s": 26.61,
+    "end_s": 27.13,
+    "success": true,
+    "p_align": 0.792
+  },
+  {
+    "word": "し",
+    "start_s": 27.13,
+    "end_s": 27.45,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "台",
+    "start_s": 27.45,
+    "end_s": 27.65,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "の",
+    "start_s": 27.65,
+    "end_s": 27.89,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "腐",
+    "start_s": 27.89,
+    "end_s": 28.2,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "乱",
+    "start_s": 28.2,
+    "end_s": 28.56,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "し",
+    "start_s": 28.56,
+    "end_s": 28.84,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 28.84,
+    "end_s": 29,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "キ",
+    "start_s": 29,
+    "end_s": 29.16,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ャ",
+    "start_s": 29.16,
+    "end_s": 29.32,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ベ",
+    "start_s": 29.32,
+    "end_s": 29.52,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ツ\n",
+    "start_s": 29.52,
+    "end_s": 29.92,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "愛",
+    "start_s": 29.92,
+    "end_s": 30.4,
+    "success": true,
+    "p_align": 0.196
+  },
+  {
+    "word": "と",
+    "start_s": 30.4,
+    "end_s": 30.68,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "呼",
+    "start_s": 30.68,
+    "end_s": 30.92,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "べ",
+    "start_s": 30.92,
+    "end_s": 31.12,
+    "success": true,
+    "p_align": 0.021
+  },
+  {
+    "word": "ば",
+    "start_s": 31.12,
+    "end_s": 31.36,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "全",
+    "start_s": 31.36,
+    "end_s": 31.6,
+    "success": true,
+    "p_align": 0.018
+  },
+  {
+    "word": "て",
+    "start_s": 31.6,
+    "end_s": 31.99,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "を",
+    "start_s": 31.99,
+    "end_s": 32.39,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "許",
+    "start_s": 32.39,
+    "end_s": 32.99,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "し",
+    "start_s": 32.99,
+    "end_s": 33.19,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た　",
+    "start_s": 33.19,
+    "end_s": 33.47,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "母",
+    "start_s": 33.47,
+    "end_s": 33.95,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "の",
+    "start_s": 33.95,
+    "end_s": 34.23,
+    "success": true,
+    "p_align": 0.003
+  },
+  {
+    "word": "仕",
+    "start_s": 34.23,
+    "end_s": 34.43,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "打",
+    "start_s": 34.43,
+    "end_s": 34.63,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ち",
+    "start_s": 34.63,
+    "end_s": 34.87,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "も",
+    "start_s": 34.87,
+    "end_s": 35.07,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "割",
+    "start_s": 35.07,
+    "end_s": 35.23,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "れ",
+    "start_s": 35.23,
+    "end_s": 35.47,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 35.47,
+    "end_s": 35.67,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "爪",
+    "start_s": 35.67,
+    "end_s": 35.98,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "も\n",
+    "start_s": 35.98,
+    "end_s": 36.5,
+    "success": true,
+    "p_align": 0.005
+  },
+  {
+    "word": "酷",
+    "start_s": 36.5,
+    "end_s": 37.14,
+    "success": true,
+    "p_align": 0.025
+  },
+  {
+    "word": "く",
+    "start_s": 37.14,
+    "end_s": 37.38,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "痩",
+    "start_s": 37.38,
+    "end_s": 37.54,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "せ",
+    "start_s": 37.54,
+    "end_s": 37.74,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 37.74,
+    "end_s": 38.14,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "膝",
+    "start_s": 38.14,
+    "end_s": 38.78,
+    "success": true,
+    "p_align": 0.149
+  },
+  {
+    "word": "を",
+    "start_s": 38.78,
+    "end_s": 38.98,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "抱",
+    "start_s": 38.98,
+    "end_s": 39.22,
+    "success": true,
+    "p_align": 0.011
+  },
+  {
+    "word": "い",
+    "start_s": 39.22,
+    "end_s": 39.42,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て　",
+    "start_s": 39.42,
+    "end_s": 39.81,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "責",
+    "start_s": 39.81,
+    "end_s": 40.21,
+    "success": true,
+    "p_align": 0.142
+  },
+  {
+    "word": "め",
+    "start_s": 40.21,
+    "end_s": 40.45,
+    "success": true,
+    "p_align": 0.004
+  },
+  {
+    "word": "る",
+    "start_s": 40.45,
+    "end_s": 40.65,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "の",
+    "start_s": 40.65,
+    "end_s": 40.85,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "は",
+    "start_s": 40.85,
+    "end_s": 41.09,
+    "success": true,
+    "p_align": 0.003
+  },
+  {
+    "word": "い",
+    "start_s": 41.09,
+    "end_s": 41.21,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "つ",
+    "start_s": 41.21,
+    "end_s": 41.45,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "も",
+    "start_s": 41.45,
+    "end_s": 41.65,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "自",
+    "start_s": 41.65,
+    "end_s": 41.85,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "分",
+    "start_s": 41.85,
+    "end_s": 42.17,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "の",
+    "start_s": 42.17,
+    "end_s": 42.45,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "事",
+    "start_s": 42.45,
+    "end_s": 42.88,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ば",
+    "start_s": 42.88,
+    "end_s": 43.28,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "か",
+    "start_s": 43.28,
+    "end_s": 43.52,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "り\n\n",
+    "start_s": 43.52,
+    "end_s": 44.24,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "お",
+    "start_s": 45.13,
+    "end_s": 46.16,
+    "success": true,
+    "p_align": 0.013
+  },
+  {
+    "word": "前",
+    "start_s": 46.16,
+    "end_s": 46.63,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "な",
+    "start_s": 46.63,
+    "end_s": 47.03,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ん",
+    "start_s": 47.03,
+    "end_s": 47.27,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "か",
+    "start_s": 47.27,
+    "end_s": 47.51,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "ど",
+    "start_s": 47.51,
+    "end_s": 47.79,
+    "success": true,
+    "p_align": 0.035
+  },
+  {
+    "word": "こ",
+    "start_s": 47.79,
+    "end_s": 48.03,
+    "success": true,
+    "p_align": 0.006
+  },
+  {
+    "word": "か",
+    "start_s": 48.03,
+    "end_s": 48.23,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "消",
+    "start_s": 48.23,
+    "end_s": 48.47,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "え",
+    "start_s": 48.47,
+    "end_s": 48.63,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ち",
+    "start_s": 48.63,
+    "end_s": 48.91,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ま",
+    "start_s": 48.91,
+    "end_s": 49.11,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "え",
+    "start_s": 49.11,
+    "end_s": 49.47,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "と　",
+    "start_s": 49.47,
+    "end_s": 49.91,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "言",
+    "start_s": 49.91,
+    "end_s": 50.23,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "わ",
+    "start_s": 50.23,
+    "end_s": 50.43,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "れ",
+    "start_s": 50.43,
+    "end_s": 50.62,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 50.62,
+    "end_s": 50.82,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "時",
+    "start_s": 50.82,
+    "end_s": 51.14,
+    "success": true,
+    "p_align": 0.04
+  },
+  {
+    "word": "初",
+    "start_s": 51.14,
+    "end_s": 51.42,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "め",
+    "start_s": 51.42,
+    "end_s": 51.82,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て",
+    "start_s": 51.82,
+    "end_s": 52.02,
+    "success": true,
+    "p_align": 0.004
+  },
+  {
+    "word": "気",
+    "start_s": 52.02,
+    "end_s": 52.22,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "付",
+    "start_s": 52.22,
+    "end_s": 52.54,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い",
+    "start_s": 52.54,
+    "end_s": 52.7,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た\n",
+    "start_s": 52.7,
+    "end_s": 53.1,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "行",
+    "start_s": 53.1,
+    "end_s": 53.5,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "き",
+    "start_s": 53.5,
+    "end_s": 53.7,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "た",
+    "start_s": 53.7,
+    "end_s": 53.98,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い",
+    "start_s": 53.98,
+    "end_s": 54.14,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "場",
+    "start_s": 54.14,
+    "end_s": 54.3,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "所",
+    "start_s": 54.3,
+    "end_s": 54.49,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "な",
+    "start_s": 54.49,
+    "end_s": 54.69,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ん",
+    "start_s": 54.69,
+    "end_s": 54.89,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て",
+    "start_s": 54.89,
+    "end_s": 55.09,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "何",
+    "start_s": 55.09,
+    "end_s": 55.25,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "処",
+    "start_s": 55.25,
+    "end_s": 55.57,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に",
+    "start_s": 55.57,
+    "end_s": 55.77,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "も",
+    "start_s": 55.77,
+    "end_s": 56.01,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "な",
+    "start_s": 56.01,
+    "end_s": 56.25,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い　",
+    "start_s": 56.25,
+    "end_s": 56.53,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "こ",
+    "start_s": 56.53,
+    "end_s": 56.81,
+    "success": true,
+    "p_align": 0.936
+  },
+  {
+    "word": "こ",
+    "start_s": 56.81,
+    "end_s": 56.97,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に",
+    "start_s": 56.97,
+    "end_s": 57.21,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "居",
+    "start_s": 57.21,
+    "end_s": 57.41,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "さ",
+    "start_s": 57.41,
+    "end_s": 57.61,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "せ",
+    "start_s": 57.61,
+    "end_s": 57.85,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て",
+    "start_s": 57.85,
+    "end_s": 58.05,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "と",
+    "start_s": 58.05,
+    "end_s": 58.24,
+    "success": true,
+    "p_align": 0.071
+  },
+  {
+    "word": "泣",
+    "start_s": 58.24,
+    "end_s": 58.44,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "き",
+    "start_s": 58.44,
+    "end_s": 58.68,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "喚",
+    "start_s": 58.68,
+    "end_s": 59.16,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い",
+    "start_s": 59.16,
+    "end_s": 59.32,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た\n「",
+    "start_s": 59.32,
+    "end_s": 59.8,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "窓",
+    "start_s": 59.8,
+    "end_s": 60.4,
+    "success": true,
+    "p_align": 0.549
+  },
+  {
+    "word": "か",
+    "start_s": 60.4,
+    "end_s": 60.72,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ら",
+    "start_s": 60.72,
+    "end_s": 60.92,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "小",
+    "start_s": 60.92,
+    "end_s": 61.08,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "さ",
+    "start_s": 61.08,
+    "end_s": 61.52,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "く",
+    "start_s": 61.52,
+    "end_s": 61.76,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "海",
+    "start_s": 61.76,
+    "end_s": 62.19,
+    "success": true,
+    "p_align": 0.166
+  },
+  {
+    "word": "が",
+    "start_s": 62.19,
+    "end_s": 62.43,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "見",
+    "start_s": 62.43,
+    "end_s": 62.59,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "え",
+    "start_s": 62.59,
+    "end_s": 62.79,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "る",
+    "start_s": 62.79,
+    "end_s": 62.99,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "か",
+    "start_s": 62.99,
+    "end_s": 63.19,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ら　",
+    "start_s": 63.19,
+    "end_s": 63.51,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "父",
+    "start_s": 63.51,
+    "end_s": 63.91,
+    "success": true,
+    "p_align": 0.286
+  },
+  {
+    "word": "さ",
+    "start_s": 63.91,
+    "end_s": 64.19,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ん",
+    "start_s": 64.19,
+    "end_s": 64.39,
+    "success": true,
+    "p_align": 0.003
+  },
+  {
+    "word": "と",
+    "start_s": 64.39,
+    "end_s": 64.67,
+    "success": true,
+    "p_align": 0.141
+  },
+  {
+    "word": "こ",
+    "start_s": 64.67,
+    "end_s": 64.87,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "の",
+    "start_s": 64.87,
+    "end_s": 65.07,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "部",
+    "start_s": 65.07,
+    "end_s": 65.27,
+    "success": true,
+    "p_align": 0.009
+  },
+  {
+    "word": "屋",
+    "start_s": 65.27,
+    "end_s": 65.47,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に",
+    "start_s": 65.47,
+    "end_s": 65.66,
+    "success": true,
+    "p_align": 0.016
+  },
+  {
+    "word": "決",
+    "start_s": 65.66,
+    "end_s": 65.86,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "め",
+    "start_s": 65.86,
+    "end_s": 66.06,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 66.06,
+    "end_s": 66.3,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "の」",
+    "start_s": 66.3,
+    "end_s": 66.5,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "と\n",
+    "start_s": 66.5,
+    "end_s": 66.78,
+    "success": true,
+    "p_align": 0.007
+  },
+  {
+    "word": "昔",
+    "start_s": 66.78,
+    "end_s": 67.42,
+    "success": true,
+    "p_align": 0.878
+  },
+  {
+    "word": "嬉",
+    "start_s": 67.42,
+    "end_s": 67.94,
+    "success": true,
+    "p_align": 0.002
+  },
+  {
+    "word": "し",
+    "start_s": 67.94,
+    "end_s": 68.18,
+    "success": true,
+    "p_align": 0.015
+  },
+  {
+    "word": "そ",
+    "start_s": 68.18,
+    "end_s": 68.34,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "う",
+    "start_s": 68.34,
+    "end_s": 68.54,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に",
+    "start_s": 68.54,
+    "end_s": 68.78,
+    "success": true,
+    "p_align": 0.007
+  },
+  {
+    "word": "話",
+    "start_s": 68.78,
+    "end_s": 69.14,
+    "success": true,
+    "p_align": 0.023
+  },
+  {
+    "word": "し",
+    "start_s": 69.14,
+    "end_s": 69.45,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て",
+    "start_s": 69.45,
+    "end_s": 69.65,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い",
+    "start_s": 69.65,
+    "end_s": 69.81,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た　",
+    "start_s": 69.81,
+    "end_s": 70.13,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "母",
+    "start_s": 70.13,
+    "end_s": 70.53,
+    "success": true,
+    "p_align": 0.651
+  },
+  {
+    "word": "は",
+    "start_s": 70.53,
+    "end_s": 70.89,
+    "success": true,
+    "p_align": 0.007
+  },
+  {
+    "word": "今",
+    "start_s": 70.89,
+    "end_s": 71.17,
+    "success": true,
+    "p_align": 0.215
+  },
+  {
+    "word": "夜",
+    "start_s": 71.17,
+    "end_s": 71.45,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "も",
+    "start_s": 71.45,
+    "end_s": 71.69,
+    "success": true,
+    "p_align": 0.005
+  },
+  {
+    "word": "ま",
+    "start_s": 71.69,
+    "end_s": 71.89,
+    "success": true,
+    "p_align": 0.075
+  },
+  {
+    "word": "だ",
+    "start_s": 71.89,
+    "end_s": 72.17,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "帰",
+    "start_s": 72.17,
+    "end_s": 72.61,
+    "success": true,
+    "p_align": 0.127
+  },
+  {
+    "word": "ら",
+    "start_s": 72.61,
+    "end_s": 73.2,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "な",
+    "start_s": 73.2,
+    "end_s": 73.64,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "い\n\n",
+    "start_s": 73.64,
+    "end_s": 73.8,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "あ",
+    "start_s": 73.8,
+    "end_s": 73.92,
+    "success": true,
+    "p_align": 0.02
+  },
+  {
+    "word": "の",
+    "start_s": 73.92,
+    "end_s": 74.4,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "海",
+    "start_s": 74.4,
+    "end_s": 75.52,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "と",
+    "start_s": 75.52,
+    "end_s": 76.16,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "一",
+    "start_s": 76.16,
+    "end_s": 76.79,
+    "success": true,
+    "p_align": 0.011
+  },
+  {
+    "word": "つ",
+    "start_s": 76.79,
+    "end_s": 77.19,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に",
+    "start_s": 77.19,
+    "end_s": 77.67,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "な",
+    "start_s": 77.67,
+    "end_s": 77.99,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "れ",
+    "start_s": 77.99,
+    "end_s": 78.43,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "た",
+    "start_s": 78.43,
+    "end_s": 78.79,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ら",
+    "start_s": 78.79,
+    "end_s": 78.95,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "っ",
+    "start_s": 78.95,
+    "end_s": 79.11,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て\n",
+    "start_s": 79.11,
+    "end_s": 80.07,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "そ",
+    "start_s": 80.07,
+    "end_s": 80.59,
+    "success": true,
+    "p_align": 0.448
+  },
+  {
+    "word": "う",
+    "start_s": 80.59,
+    "end_s": 81.02,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "思",
+    "start_s": 81.02,
+    "end_s": 81.78,
+    "success": true,
+    "p_align": 0.018
+  },
+  {
+    "word": "っ",
+    "start_s": 81.78,
+    "end_s": 82.06,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 82.06,
+    "end_s": 82.5,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "後",
+    "start_s": 82.5,
+    "end_s": 82.9,
+    "success": true,
+    "p_align": 0.051
+  },
+  {
+    "word": "に",
+    "start_s": 82.9,
+    "end_s": 83.18,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "少",
+    "start_s": 83.18,
+    "end_s": 83.86,
+    "success": true,
+    "p_align": 0.043
+  },
+  {
+    "word": "し",
+    "start_s": 83.86,
+    "end_s": 84.18,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "笑",
+    "start_s": 84.18,
+    "end_s": 84.73,
+    "success": true,
+    "p_align": 0.094
+  },
+  {
+    "word": "っ",
+    "start_s": 84.73,
+    "end_s": 85.17,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た\n\n",
+    "start_s": 85.17,
+    "end_s": 86.29,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "自",
+    "start_s": 86.29,
+    "end_s": 86.77,
+    "success": true,
+    "p_align": 0.057
+  },
+  {
+    "word": "虐",
+    "start_s": 86.77,
+    "end_s": 87.25,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "家",
+    "start_s": 87.25,
+    "end_s": 88.44,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "の",
+    "start_s": 88.44,
+    "end_s": 89.52,
+    "success": true,
+    "p_align": 0.021
+  },
+  {
+    "word": "ア",
+    "start_s": 89.52,
+    "end_s": 91.06,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "リ",
+    "start_s": 92.11,
+    "end_s": 93.43,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ー　",
+    "start_s": 93.43,
+    "end_s": 95.03,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "波",
+    "start_s": 95.03,
+    "end_s": 95.75,
+    "success": true,
+    "p_align": 0.234
+  },
+  {
+    "word": "の",
+    "start_s": 95.75,
+    "end_s": 96.06,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "間",
+    "start_s": 96.06,
+    "end_s": 96.62,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "に",
+    "start_s": 96.62,
+    "end_s": 97.42,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "間",
+    "start_s": 97.42,
+    "end_s": 97.7,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に　",
+    "start_s": 97.7,
+    "end_s": 98.22,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "歌",
+    "start_s": 98.22,
+    "end_s": 99.38,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "っ",
+    "start_s": 99.38,
+    "end_s": 100.45,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て\n",
+    "start_s": 100.45,
+    "end_s": 103.6,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "被",
+    "start_s": 103.6,
+    "end_s": 105.46,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "虐",
+    "start_s": 105.48,
+    "end_s": 106.93,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "者",
+    "start_s": 108.09,
+    "end_s": 109.99,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "の",
+    "start_s": 109.99,
+    "end_s": 115.46,
+    "success": true,
+    "p_align": 0.116
+  },
+  {
+    "word": "愛　",
+    "start_s": 139.18,
+    "end_s": 143.04,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "波",
+    "start_s": 143.3,
+    "end_s": 144.18,
+    "success": true,
+    "p_align": 0.428
+  },
+  {
+    "word": "の",
+    "start_s": 144.18,
+    "end_s": 144.53,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "間",
+    "start_s": 144.53,
+    "end_s": 144.89,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に",
+    "start_s": 144.89,
+    "end_s": 148.65,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "間",
+    "start_s": 152.96,
+    "end_s": 158.98,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "に　",
+    "start_s": 158.98,
+    "end_s": 159.14,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "願",
+    "start_s": 159.14,
+    "end_s": 159.77,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "っ",
+    "start_s": 159.77,
+    "end_s": 161.26,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た\n",
+    "start_s": 161.48,
+    "end_s": 162.69,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "抱",
+    "start_s": 162.69,
+    "end_s": 165.12,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "き",
+    "start_s": 165.12,
+    "end_s": 165.36,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "し",
+    "start_s": 165.36,
+    "end_s": 165.52,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "め",
+    "start_s": 165.52,
+    "end_s": 165.76,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ら",
+    "start_s": 165.76,
+    "end_s": 166.16,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "れ",
+    "start_s": 166.16,
+    "end_s": 166.6,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 166.6,
+    "end_s": 166.8,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "く",
+    "start_s": 166.8,
+    "end_s": 167.35,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "て　",
+    "start_s": 167.35,
+    "end_s": 167.59,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "嘘",
+    "start_s": 167.59,
+    "end_s": 168.63,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "つ",
+    "start_s": 168.63,
+    "end_s": 168.91,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "い",
+    "start_s": 168.91,
+    "end_s": 169.11,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "た",
+    "start_s": 169.11,
+    "end_s": 169.71,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "あ",
+    "start_s": 169.71,
+    "end_s": 170.07,
+    "success": true,
+    "p_align": 0.003
+  },
+  {
+    "word": "の",
+    "start_s": 170.07,
+    "end_s": 170.31,
+    "success": true,
+    "p_align": 0.007
+  },
+  {
+    "word": "日",
+    "start_s": 170.31,
+    "end_s": 170.55,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "を\n",
+    "start_s": 170.55,
+    "end_s": 171.36,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "今",
+    "start_s": 171.39,
+    "end_s": 172.06,
+    "success": true,
+    "p_align": 0.001
+  },
+  {
+    "word": "で",
+    "start_s": 172.06,
+    "end_s": 172.26,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "も",
+    "start_s": 172.26,
+    "end_s": 172.46,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ず",
+    "start_s": 172.46,
+    "end_s": 172.74,
+    "success": true,
+    "p_align": 0.054
+  },
+  {
+    "word": "っ",
+    "start_s": 172.74,
+    "end_s": 173.42,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "と",
+    "start_s": 173.42,
+    "end_s": 173.98,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "悔",
+    "start_s": 173.98,
+    "end_s": 174.3,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "や",
+    "start_s": 174.3,
+    "end_s": 174.45,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "ん",
+    "start_s": 174.45,
+    "end_s": 174.97,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "で",
+    "start_s": 174.97,
+    "end_s": 175.53,
+    "success": true,
+    "p_align": 0
+  },
+  {
+    "word": "る",
+    "start_s": 175.53,
+    "end_s": 175.69,
+    "success": true,
+    "p_align": 0
+  }
+]
