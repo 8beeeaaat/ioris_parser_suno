@@ -55,6 +55,10 @@ export class SunoParser {
           ? acc[lastParagraphIndex][lastLineIndex].length - 1
           : 0;
 
+        // [Verse] など [] で囲まれた文字列を削除
+        if (newChar.word.includes("[")) {
+          newChar.word = newChar.word.replace(/\[.*?\]\n?/, "");
+        }
         if (newChar.word.endsWith("\n\n")) {
           acc.push([[[]]]);
           newChar.word = newChar.word.slice(0, -2);
@@ -70,7 +74,7 @@ export class SunoParser {
           newChar.hasNewline = true;
         }
         if (newChar.word.endsWith(" ")) {
-          acc[acc.length - 1][acc[acc.length - 1].length].push([]);
+          acc[acc.length - 1][acc[acc.length - 1].length - 1].push([]);
           newChar.word = newChar.word.slice(0, -1);
           newChar.hasWhitespace = true;
         }
