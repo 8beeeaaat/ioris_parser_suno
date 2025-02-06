@@ -23,11 +23,6 @@ type sunoWord = sunoChar[];
 type sunoLine = sunoWord[];
 type sunoParagraph = sunoLine[];
 
-const TIMING_TYPE = {
-  Line: "Line",
-  Word: "Word",
-} as const;
-
 export class SunoParser {
   tokenizer?: LyricCreateArgs["tokenizer"];
   offsetSec?: number;
@@ -55,9 +50,12 @@ export class SunoParser {
           ? acc[lastParagraphIndex][lastLineIndex].length - 1
           : 0;
 
-        // [Verse] など [] で囲まれた文字列を削除
+        // remove song section title. like [Verse]
         if (newChar.word.includes("[")) {
-          newChar.word = newChar.word.replace(/\[.*?\]\n?/, "");
+          newChar.word = newChar.word.replaceAll(/\[.*?\]\n?/g, "");
+        }
+        if (newChar.word.startsWith("\n")) {
+          newChar.word = newChar.word.replaceAll("\n", "");
         }
         if (newChar.word.endsWith("\n\n")) {
           acc.push([[[]]]);
@@ -123,6 +121,9 @@ export class SunoParser {
     const wordTimelines: LineCreateArgs["timelines"] = [];
 
     for (const word of Array.from(line)) {
+      if (!word.length) {
+        continue;
+      }
       const { wordTimeline } = this.parseWordTimelines(word);
       wordTimelines.push(wordTimeline);
     }
