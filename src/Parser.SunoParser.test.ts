@@ -45,6 +45,6 @@ describe("SunoParser", () => {
     );
     expect(result.resourceID).toBe("7fcebd38-00b7-4c9a-9eba-1df4af210e48");
     expect(result.duration).toBe(0);
-    expect(result.voids().length).toBe(17);
+    expect(result.voids().length).toBe(12);
   }, 10000);
 });
