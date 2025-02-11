@@ -39,8 +39,9 @@ export class SunoParser {
     const timelines: LyricCreateArgs["timelines"] = [];
 
     const paragraphs = chars.reduce<sunoParagraph[]>(
-      (acc, char) => {
+      (acc, char, index) => {
         const newChar = { ...char, hasWhitespace: false, hasNewline: false };
+        const nextChar = chars[index + 1];
 
         const lastParagraphIndex = acc.length ? acc.length - 1 : 0;
         const lastLineIndex = acc[lastParagraphIndex].length
@@ -54,25 +55,24 @@ export class SunoParser {
         if (newChar.word.includes("[")) {
           newChar.word = newChar.word.replaceAll(/\[.*?\]\n?/g, "");
         }
+        newChar.word = newChar.word.trimStart();
         if (newChar.word.startsWith("\n")) {
           newChar.word = newChar.word.replaceAll("\n", "");
         }
         if (newChar.word.endsWith("\n\n")) {
-          acc.push([[[]]]);
+          nextChar ? acc.push([[[]]]) : null;
           newChar.word = newChar.word.slice(0, -2);
         }
         if (newChar.word.endsWith("\n")) {
-          acc[acc.length - 1].push([[]]);
+          nextChar ? acc[acc.length - 1].push([[]]) : null;
           newChar.word = newChar.word.slice(0, -1);
           newChar.hasNewline = true;
         }
         if (newChar.word.endsWith("　")) {
-          acc[acc.length - 1].push([[]]);
           newChar.word = newChar.word.slice(0, -1);
           newChar.hasNewline = true;
         }
         if (newChar.word.endsWith(" ")) {
-          acc[acc.length - 1][acc[acc.length - 1].length - 1].push([]);
           newChar.word = newChar.word.slice(0, -1);
           newChar.hasWhitespace = true;
         }
