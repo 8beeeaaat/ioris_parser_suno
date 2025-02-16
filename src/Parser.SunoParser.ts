@@ -37,7 +37,6 @@ export class SunoParser {
 
   public async parse(chars: SunoChar[], resourceID: string) {
     const timelines: LyricCreateArgs["timelines"] = [];
-
     const paragraphs = chars.reduce<sunoParagraph[]>(
       (acc, char, index) => {
         const newChar = { ...char, hasWhitespace: false, hasNewline: false };
@@ -51,10 +50,6 @@ export class SunoParser {
           ? acc[lastParagraphIndex][lastLineIndex].length - 1
           : 0;
 
-        // remove song section title. like [Verse]
-        if (newChar.word.includes("[")) {
-          newChar.word = newChar.word.replaceAll(/\[.*?\]\n?/g, "");
-        }
         newChar.word = newChar.word.trimStart();
         if (newChar.word.startsWith("\n")) {
           newChar.word = newChar.word.replaceAll("\n", "");
@@ -136,6 +131,20 @@ export class SunoParser {
   private parseWordTimelines(word: sunoWord): {
     wordTimeline: WordCreateArgs["timeline"];
   } {
+    const joinedText = word.reduce<string>(
+      (acc, char) =>
+        `${acc}${char.hasWhitespace ? `${char.word} ` : char.word}`,
+      "",
+    );
+    const text = joinedText
+      // 複数行にまたがる括弧で囲まれた部分を削除
+      .replace(/【[\s\S]*?】/g, "")
+      .replace(/\[[\s\S]*?\]/g, "")
+      .replace(/\([\s\S]*?\)/g, "")
+      .replace(/（[\s\S]*?）/g, "")
+      // 複数の空白を1つにまとめる
+      .replace(/[^\S\r\n]+/g, " ")
+      .trim();
     const wordTimeline: WordCreateArgs["timeline"] = {
       begin: word[0].start_s,
       end: word[word.length - 1].end_s,
@@ -147,14 +156,9 @@ export class SunoParser {
         (acc, char) => acc || char.hasWhitespace,
         false,
       ),
-      text: word.reduce<string>(
-        (acc, char) => `${acc + char.word}${char.hasWhitespace ? " " : ""}`,
-        "",
-      ),
+      text,
     };
-    return {
-      wordTimeline,
-    };
+    return { wordTimeline };
   }
 }
 
