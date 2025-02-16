@@ -46,5 +46,22 @@ describe("SunoParser", () => {
     expect(result.resourceID).toBe("7fcebd38-00b7-4c9a-9eba-1df4af210e48");
     expect(result.duration).toBe(0);
     expect(result.voids().length).toBe(12);
+    expect(result.timelines().flat(2).length).toBe(104);
+    expect(
+      result
+        .timelines()
+        .flat(2)
+        .filter((t) =>
+          [
+            "verse",
+            "chorus",
+            "pre-chorus",
+            "bridge",
+            "outro",
+            "intro",
+            "rap",
+          ].some((word) => t.text.toLowerCase().includes(word)),
+        ).length,
+    ).toBe(0);
   }, 10000);
 });

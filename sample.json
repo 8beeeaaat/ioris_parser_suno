@@ -1,5 +1,12 @@
 [
   {
+    "end_s": 0.84,
+    "p_align": 0,
+    "start_s": 0.64,
+    "success": true,
+    "word": "【Intro-Verse】\n相"
+  },
+  {
     "end_s": 1.2,
     "p_align": 0.183,
     "start_s": 0.8,
@@ -1139,5 +1146,40 @@
     "start_s": 149.16,
     "success": true,
     "word": "影"
+  },
+  {
+    "end_s": 220.38,
+    "p_align": 0,
+    "start_s": 211.86,
+    "success": true,
+    "word": "て!!!\n\n【"
+  },
+  {
+    "end_s": 220.82,
+    "p_align": 0,
+    "start_s": 220.38,
+    "success": true,
+    "word": "Verse "
+  },
+  {
+    "end_s": 221.02,
+    "p_align": 0.002,
+    "start_s": 220.82,
+    "success": true,
+    "word": "1】\nめ"
+  },
+  {
+    "end_s": 240.37,
+    "p_align": 0.002,
+    "start_s": 240.17,
+    "success": true,
+    "word": "い\n\n【"
+  },
+  {
+    "end_s": 241.21,
+    "p_align": 0.001,
+    "start_s": 241.01,
+    "success": true,
+    "word": "Pre-Chorus 1】\n路"
   }
 ]
