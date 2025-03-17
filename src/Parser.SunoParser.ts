@@ -130,14 +130,17 @@ export function SunoCharsToLyricCreateArgs(chars: SunoChar[]) {
 }
 
 export class SunoParser {
-  tokenizer?: LyricCreateArgs["tokenizer"];
+  lineTokenizer?: LyricCreateArgs["lineTokenizer"];
+  paragraphTokenizer?: LyricCreateArgs["paragraphTokenizer"];
   offsetSec?: number;
 
   constructor(props?: {
-    tokenizer?: LyricCreateArgs["tokenizer"];
+    lineTokenizer?: LyricCreateArgs["lineTokenizer"];
+    paragraphTokenizer?: LyricCreateArgs["paragraphTokenizer"];
     offsetSec?: number;
   }) {
-    this.tokenizer = props ? props.tokenizer : undefined;
+    this.lineTokenizer = props ? props.lineTokenizer : undefined;
+    this.paragraphTokenizer = props ? props.paragraphTokenizer : undefined;
     this.offsetSec = props ? props.offsetSec : undefined;
   }
 
@@ -147,7 +150,8 @@ export class SunoParser {
       resourceID,
       duration: 0,
       timelines,
-      tokenizer: this.tokenizer,
+      lineTokenizer: this.lineTokenizer,
+      paragraphTokenizer: this.paragraphTokenizer,
       offsetSec: this.offsetSec,
     }).init();
 
