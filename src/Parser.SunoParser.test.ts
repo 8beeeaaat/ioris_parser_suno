@@ -30,7 +30,7 @@ describe("SunoParser", () => {
     const tokenizer = await getTokenizer();
 
     parser = new SunoParser({
-      tokenizer: (lineArgs) =>
+      lineTokenizer: (lineArgs) =>
         LineArgsTokenizer({
           lineArgs,
           tokenizer,
